@@ -4,7 +4,7 @@
 
 ## AWS Endpoint URL
 
- POST - https://jhptscj2cg.execute-api.ap-south-1.amazonaws.com/dev/classify
+POST - https://jhptscj2cg.execute-api.ap-south-1.amazonaws.com/dev/classify
 
 Complete Docker project available in [mobilenetV2-deploy-lambda](mobilenetV2-deploy-lambda)
 
