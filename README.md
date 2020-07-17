@@ -15,6 +15,9 @@ MobilenetV2 pre-trained model generated using [pytorch_vision_mobilenet_v2.ipynb
 ![Insomania Screenshot](test-samples/Insomania_Screenshot.png)
 
 
+## Postman Screenshot
+
+![Postman Screenshot](test-samples/eva4p2-postman-208-success.png)
 
 ### Input Image
 
